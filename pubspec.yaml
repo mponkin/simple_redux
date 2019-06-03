@@ -1,6 +1,6 @@
 name: simple_redux
 description: Another implementation of Redux pattern. Inspired by https://jayrambhia.com/blog/android-redux-intro
-version: 0.1.0
+version: 0.1.0+1
 homepage: https://github.com/mponkin/simple_redux
 author: Mikhail Ponkin <mponkin@gmail.com>
 

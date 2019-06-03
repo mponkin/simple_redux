@@ -2,7 +2,7 @@ name: simple_redux
 description: Another implementation of Redux pattern. Inspired by https://jayrambhia.com/blog/android-redux-intro
 version: 0.1.0
 homepage: https://github.com/mponkin/simple_redux
-author: mikhail.ponkin <mponkin@gmail.com>
+author: Mikhail Ponkin <mponkin@gmail.com>
 
 environment:
   sdk: '>=2.2.0 <3.0.0'
